@@ -27,4 +27,5 @@ This project needs
  - [zsh](https://www.zsh.org/)
  - [i3](https://www.zsh.org/)
  - [zenity](http://live.gnome.org/Zenity)
+
 to work properly.
